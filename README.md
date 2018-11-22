@@ -1,3 +1,6 @@
 # 3D_shooter
 
-![Screenshot](screenshot.png)
+![](4.png)
+![](3.png)
+![2](2.png)
+![](1.png)
